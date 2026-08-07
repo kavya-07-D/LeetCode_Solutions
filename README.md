@@ -55,4 +55,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
