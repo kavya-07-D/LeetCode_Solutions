@@ -6,6 +6,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1480-running-sum-of-1d-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
@@ -62,4 +63,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0620-not-boring-movies) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
