@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -51,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
