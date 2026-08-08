@@ -6,6 +6,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
@@ -25,6 +26,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
