@@ -26,6 +26,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0093-restore-ip-addresses) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -58,6 +60,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
