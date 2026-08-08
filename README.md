@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -33,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -71,4 +74,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
