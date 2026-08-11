@@ -13,6 +13,7 @@
 | [1140-stone-game-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
