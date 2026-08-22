@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [1140-stone-game-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
