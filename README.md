@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
