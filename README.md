@@ -19,6 +19,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
