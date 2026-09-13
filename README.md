@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -224,4 +225,8 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
