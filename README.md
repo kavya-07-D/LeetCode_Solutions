@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -71,6 +72,7 @@
 | [0093-restore-ip-addresses](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [1927-sum-game](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -105,6 +107,7 @@
 | ------- |
 | [1927-sum-game](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -147,6 +150,7 @@
 | [1140-stone-game-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
