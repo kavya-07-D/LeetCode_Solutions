@@ -71,6 +71,7 @@
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1927-sum-game](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -187,6 +188,7 @@
 | [0146-lru-cache](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0460-lfu-cache) |
+| [0771-jewels-and-stones](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
