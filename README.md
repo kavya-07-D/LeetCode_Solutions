@@ -99,6 +99,7 @@
 | [0326-power-of-three](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [1140-stone-game-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
@@ -268,4 +269,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
