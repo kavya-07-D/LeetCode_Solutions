@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0093-restore-ip-addresses) |
+| [0242-valid-anagram](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1927-sum-game](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/1927-sum-game) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0771-jewels-and-stones](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
