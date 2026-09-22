@@ -27,6 +27,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3525-find-x-value-of-array-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/kavya-07-D/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
